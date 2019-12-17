@@ -13,3 +13,6 @@ Here we can make a brainstormy list of things, which we come across that should 
 FOR JAN
 Cleaned_recipes.p is located on Shared Google drive location, file was too big for github
 Download it and keep it in the same location as notebook (ITS A ZIP ON GITHUB NOW)
+
+STORE EXPERIMENT RESULTS HERE:
+https://docs.google.com/document/d/1GZvKRSKwMSarEYjmZTSEeJfFvFptnPsFxg7k9fjt3u4/edit?usp=sharing
